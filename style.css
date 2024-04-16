@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+
+
+
+
+
+.navbar {
+    overflow: hidden;
+    background-color: rgb(169, 169, 217);
+    position: fixed;
+    top: 0;
+    margin: 0;
+    display: flex;
+    width: 100%;
+
+
+}
+
+
+
+.navbar a {
+
+    color: lightblue;
+    text-align: center;
+    margin-left: 120px;
+    justify-content: space-evenly;
+
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+Button {
+    margin-left: 200px;
+    padding: 5px;
+    color: black;
+    background-color: rgb(28, 7, 210);
+
+
+}
+
+.nav-bar button:hover {
+    background-color: white;
+}
