@@ -1,14 +1,3 @@
-.body {
-    margin: 0;
-    background-color: rgb(255, 255, 255);
-    display: flex;
-}
-
-
-
-
-
-
 .navbar {
     overflow: hidden;
     background-color: rgb(169, 169, 217);
