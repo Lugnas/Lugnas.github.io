@@ -1,0 +1,19 @@
+.body {
+    background-color: rgb(246, 198, 110);
+}
+
+
+.div h2 {
+    color: aqua;
+    text-decoration: none;
+}
+
+.div h2:hover {
+    color: white;
+
+}
+
+.hr {
+
+    margin-top: 50px;
+}
